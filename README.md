@@ -82,7 +82,6 @@ For the lab you may either use a python script where the sensor-data is manually
 - 23ai update
 - Lab 1: Data Model creation and data load
 - Lab 2: AI and ML lab
-- Vector search presentation and discussion, based on loadspeaker samples
 - Vector Lab: Vector search and select AI demo Notebook
 - Lab 3: REST and JSON Duality view
 - Lab 4: Circuit Python sensor lab
