@@ -146,7 +146,7 @@ The lab is run as a Notebook. Import the Notebook [lab2.dsnb](files/lab2.dsnb) a
 > :warning: As shown in lab1, remember to switch notebooktype from `low` to `tp`
  
   
-### Workshp Vector serach and select AI Lab
+### Workshop Vector serach and select AI Lab
 
 New version will be pushed, stay tuned
 
