@@ -144,18 +144,11 @@ In this lab you will create the different AI ML models, and test/verify your mod
 The lab is run as a Notebook. Import the Notebook [lab2.dsnb](files/lab2.dsnb) and follow the Notebook instructions 
   
 > :warning: As shown in lab1, remember to switch notebooktype from `low` to `tp`
-
-### Vector seacrhc loadspeaker Lab   
-  
-  
-The lab is run as a Notebook. Import the Notebook [LAB2_part_2_Vector.ipynb](files/LAB2_part_2_Vector.ipynb) and follow the Notebook instructions  
+ 
   
 ### Workshp Vector serach and select AI Lab
 
-In this lab you will paly wih vector search and select AI: Let AI enerate the SQL statements for you 
-In the lab we will explore Vector search in the database.   
-  
-The lab is run as a Notebook. Import the Notebook [VectorSearch_SelectAI.ipynb](files/VectorSearch_SelectAI.ipynb) and follow the Notebook instructions 
+New version will be pushed, stay tuned
 
 ###  Workshop part 3
 
